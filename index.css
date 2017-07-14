@@ -1,10 +1,10 @@
-body{
+body {
 	background-color: blue;
 }
-svg{
+svg {
 	fill:#fff;
 }
-div.top-section{
+div.top-section {
 	margin-left: 125px;
 	background-color: ;
 }
@@ -14,7 +14,7 @@ div.firstheading li {
 	text-decoration: none;
 	float: left;
 }
-a svg:hover{
+a svg:hover {
 	color: #6079F6;
 }
 div.secondheading {
@@ -28,10 +28,10 @@ div.secondheading ul a {
 	font-weight: 500;
 	font-size: 17px;
 }
-div.secondheading a:link{
+div.secondheading a:link {
 	color: #fff;
 }
-div.secondheading a:hover{
+div.secondheading a:hover {
 	color: #6079F6;
 }
 div.secondheading li {
@@ -39,9 +39,6 @@ div.secondheading li {
 	display: inline;
 	padding-left: 18.5947px;
 	padding-right: 18.5947px;
-}
-div.thirdheading {
-	width: ;
 }
 div.thirdheading ul a {
 	text-decoration: none;
@@ -64,7 +61,7 @@ div.thirdheading a:link {
 div.thirdheading a:hover {
 	color: #6079F6;
 }
-div.line{
+div.line {
 	color: white;
 	margin: 105px 0 0 50px;
 	border:none;
@@ -76,7 +73,7 @@ div.line{
 	text-align: left;
 	font-size: 14px;
 }
-div.subdiv{
+div.subdiv {
 	text-transform: uppercase;
 	font-size: 11px;
 	float: left;
@@ -108,13 +105,13 @@ div.content p {
 	letter-spacing: .025em;
 	margin: 20px 0 0 170px;
 }
-a:link{
+a:link {
 	text-decoration: none;
 }
-a .option1:hover{
+a .option1:hover {
 	margin-top: 88px;
 }
-div.option1{
+div.option1 {
 	margin-top: 90px;
 	margin-left: 170px;
 	width: 150px;
@@ -129,14 +126,14 @@ div.option1{
 	letter-spacing: .025em;
 	line-height: px;
 }
-a:link{
+a:link {
 	color:#fff;
  }
-a .option2:hover{
+a .option2:hover {
 	margin-top:88px;
 }
 
-div.option2{
+div.option2 {
 	width: 150px;
 	color: #7795f8;
 	background-color: #fff;
