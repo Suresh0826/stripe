@@ -1,0 +1,58 @@
+body {
+	margin: 0;
+	padding: 0;
+
+}
+div.stripe1 {
+	background-color: #0033cc;
+	height: 210px;
+	width: 230px;
+	transform:skewY(-12deg);
+	float: left;
+	margin-top: -75px;
+}
+div.stripe2 {
+	width: 400px;
+	height: 170px;
+	background-color: #4553ff;
+	transform:skewY(-12deg);
+	float: left;
+	margin-top: -93px;
+}
+div.stripe3 {
+	width: 330px;
+	height: 123px;
+	background-color: #4f40ff;
+	transform: skewY(-12deg);
+	float: left;
+	margin-top: -90px;
+}
+div.stripe4 {
+	width: 300px;
+	height: 200px;
+	background-color:#25ddf5 ;
+	transform:skewY(-13deg);
+	float: left;
+	margin-top: -515px;
+	margin-left: 1138px;
+	border-radius: 3px;
+}
+div.stripe5 {
+	width: 450px;
+	height: 210px;
+	background-color:#1fa2ff;
+	transform: skewY(-13deg);
+	float: left;
+	margin-top: -107px;
+	margin-left: 0px;
+}
+div.stripes {
+	height: 580px;
+	background:linear-gradient(to right bottom,  #001FCC, #00ffcc);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	transform:skew(0deg,-13deg) ;
+	margin-top: 50px;
+	background-clip: 
+}
